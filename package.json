@@ -1,0 +1,22 @@
+{
+  "name": "practica_4_sprint",
+  "version": "1.0.0",
+  "description": "Practica 4, sprints semana 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMorales26/Practica_4_Sprint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMorales26/Practica_4_Sprint/issues"
+  },
+  "homepage": "https://github.com/JuanMorales26/Practica_4_Sprint#readme",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
